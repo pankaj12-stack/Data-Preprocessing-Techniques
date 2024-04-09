@@ -40,7 +40,7 @@ The solution for the first iteration can be found in the following Jupyter Noteb
 
 [Project_Iteration_1_(P1)_1_1.ipynb](https://github.com/pankaj12-stack/Data-Preprocessing-Techniques/blob/main/Project_Iteration_1_(P1)_1_1.ipynb)
 
-##Here are some detailed insights from the solution for Iteration 1:
+## Here are some detailed insights from the solution for Iteration 1:
 
 1. **Dataset Presentation**:
    - The dataset contains information about 159,541 players from the "Football Manager 2017" game, with 89 attributes for each player.
